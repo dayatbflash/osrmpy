@@ -1,0 +1,2 @@
+class EmptyCoordinatesError(Exception):
+	pass
